@@ -1,0 +1,9 @@
+.headerContainer {
+  height: 6vh;
+}
+
+.headerContent {
+  display: flex;
+  justify-content: center;
+  padding: 0;
+}
